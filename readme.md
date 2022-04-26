@@ -52,7 +52,7 @@ Vamos criar a regra de negócio.
 
 ![](images/project_dmn_asset.png)
 
-3. No campo **DMN** preencha com `Customer`. Garanta que no campo **Package** esteja a opção `com.myspace.introduction_dmn`. Em seguida clique em **Ok**.
+3. No campo **DMN** preencha com `Insurance_price`. Garanta que no campo **Package** esteja a opção `com.myspace.introduction_dmn`. Em seguida clique em **Ok**.
 
 ![](images/dmn_name.png)
 
